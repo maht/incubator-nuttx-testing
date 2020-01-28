@@ -1,0 +1,2 @@
+#!/bin/bash
+jenkins-job-create incubator-nuttx $(dirname $0)/config.xml
